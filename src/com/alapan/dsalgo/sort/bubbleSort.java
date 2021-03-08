@@ -1,9 +1,9 @@
 //Compare each element with the last element, and swap the elements so that the largest one is the last.
-//And then after one loop, compare elements with the element before, swap sp that the element,
+//And then after one loop, compare elements with the element before, swap so that the element,
 //before last has the next largest.
 //Time Complexity is 0(n²)
 
-package com.alapan.dsalgo;
+package com.alapan.dsalgo.sort;
 
 public class bubbleSort {
 
