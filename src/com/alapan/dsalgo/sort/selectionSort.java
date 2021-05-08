@@ -9,7 +9,6 @@ public class selectionSort {
     public static void main(String args[]) {
 
         int[] array = {100, -9, -23, -1, 320230, 89, 8484, 2};
-        https://dashboardu.herokuapp.com/
         for (int last = array.length - 1; last > 0; last--) {
             int largest = 0;
             for (int first = 1; first <= last; first++) {
