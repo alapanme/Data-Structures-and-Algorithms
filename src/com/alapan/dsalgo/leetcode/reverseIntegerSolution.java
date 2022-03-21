@@ -35,7 +35,7 @@ public class reverseIntegerSolution {
         return (int) rev;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         reverseIntegerSolution obj = new reverseIntegerSolution();
         int revBruteForce = obj.reverseBruteForce(214748);
         int revOptimized = obj.reverseOptimized(-2147483648);

@@ -14,7 +14,7 @@ public class reverseString {
         }
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
         reverseString rb = new reverseString();
         System.out.println(rb.reverseBruteForce("My Name is Alapan"));
     }

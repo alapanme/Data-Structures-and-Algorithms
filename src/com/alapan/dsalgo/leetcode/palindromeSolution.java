@@ -36,7 +36,7 @@ public class palindromeSolution {
         return false;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         palindromeSolution obj = new palindromeSolution();
         boolean boolBruteForce = obj.isPalindromeBruteForce(0);
         System.out.println("Is the Number Palindrome: " + boolBruteForce);
