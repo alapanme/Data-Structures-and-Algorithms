@@ -11,6 +11,7 @@ In this project I will write java programmes for various Data Structures and Alg
 - [Reverse Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/reverseIntegerSolution.java)
 - [Palindrome Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/palindromeSolution.java)
 - [Maximum SubArray(Kadane's Algorithm)](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/maximumSubArrayKadanesAlgo.java)
+- [Move Zeros](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/moveZeros.java)
 
 # Practice Solutions
 - [Reverse String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/reverseString.java)
