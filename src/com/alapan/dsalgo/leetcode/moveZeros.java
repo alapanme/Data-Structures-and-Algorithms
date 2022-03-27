@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class moveZeros {
 
-    public ArrayList<Integer> bruteForce(int[] arr) { //O(n) Time complexity
+    public ArrayList<Integer> bruteForce(int[] arr) { //O(a*b) Time complexity
         ArrayList<Integer> newArr = new ArrayList<>();
         int zero = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -21,7 +21,7 @@ public class moveZeros {
         return newArr;
     }
 
-    public void moveZeroesOptimized(int[] nums) { //O(n) Time complexity
+    public void moveZeroesOptimized(int[] nums) { //O(a*b) Time complexity
         if (nums == null || nums.length == 0) {
             return;
         }
