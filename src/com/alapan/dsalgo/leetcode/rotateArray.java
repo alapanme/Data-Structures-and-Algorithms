@@ -4,7 +4,7 @@ package com.alapan.dsalgo.leetcode;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class rotateArray {  //O(a*b) Time complexity
+public class rotateArray {  //O(a+b) Time complexity
     public void bruteForceSolution(int[] nums, int k) {
         ArrayList<Integer> newArray = new ArrayList<>();
         int len = nums.length;

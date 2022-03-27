@@ -2,7 +2,7 @@ package com.alapan.dsalgo.leetcode;
 
 public class reverseIntegerSolution {
 
-    public int reverseBruteForce(int x) {
+    public int reverseBruteForce(int x) {   //O(n) Time Complexity
         long extractedNumber = 0;
         String finalNumber = "";
         long y = Math.abs(Long.valueOf(x));  //Change negative to positive
@@ -23,7 +23,7 @@ public class reverseIntegerSolution {
         }
     }
 
-    public int reverseOptimized(int x) {
+    public int reverseOptimized(int x) {    //O(n) Time Complexity
         long rev = 0;
         while (x != 0) {
             rev = (rev * 10) + (x % 10);
