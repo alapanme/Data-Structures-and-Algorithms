@@ -1,9 +1,6 @@
 package com.alapan.dsalgo.leetcode;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class containsDuplicate {
 
@@ -46,10 +43,19 @@ public class containsDuplicate {
         return false;
     }
 
+    public boolean optimized3 (int[] nums) { //Time complexity is O(nlogn)
+        Arrays.sort(nums);
+        for (int i = 0; i < nums.length - 1; ++i) {
+            if (nums[i] == nums[i + 1]) return true;
+        }
+        return false;
+    }
+
     public static void main(String[] args) {
         containsDuplicate cd = new containsDuplicate();
         System.out.println(cd.bruteForce(new int[]{1, 2, 3, 4}));
         System.out.println(cd.optimized(new int[]{1, 1, 1, 3, 3, 4, 3, 2, 4, 2}));
         System.out.println(cd.optimized2(new int[]{1, 2, 4, 5, 4, 1}));
+        System.out.println(cd.optimized3(new int[]{1, 2, 4, 5, 4, 1}));
     }
 }
