@@ -1,8 +1,6 @@
 //https://leetcode.com/problems/majority-element/
 
 package com.alapan.dsalgo.leetcode;
-
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -40,7 +38,7 @@ public class majorityElement {
         return counts;
     }
 
-    public int optimizedSolution(int[] nums) { //TIme Complexity is O(n). Space Complexity is O(n)
+    public int optimizedSolution(int[] nums) { //Time Complexity is O(n). Space Complexity is O(n)
         HashMap<Integer, Integer> counts = countAndNums(nums);
         Map.Entry<Integer, Integer> majorityEntry = null;
         for (Map.Entry<Integer, Integer> entry : counts.entrySet()) {
@@ -53,7 +51,7 @@ public class majorityElement {
 
     //---------------------------//
 
-    public int optimizedBoyerMooreAlgo(int[] nums) { //TIme Complexity is O(n). Space Complexity is O(1)
+    public int optimizedBoyerMooreVotingAlgo(int[] nums) { //Time Complexity is O(n). Space Complexity is O(1)
         /*
          * [7, 7, 5, 7, 5, 1 | 5, 7 | 5, 5, 7, 7 | 7, 7, 7, 7]
          * Here, the 7 at index 0 is selected to be the first candidate for majority element.
@@ -92,6 +90,6 @@ public class majorityElement {
         majorityElement obj = new majorityElement();
         System.out.println(obj.bruteForceSolution(new int[]{8, 8, 7, 7, 7}));
         System.out.println(obj.optimizedSolution(new int[]{8, 8, 7, 7, 7}));
-        System.out.println(obj.optimizedBoyerMooreAlgo(new int[]{3, 3, 4}));
+        System.out.println(obj.optimizedBoyerMooreVotingAlgo(new int[]{3, 3, 4}));
     }
 }
