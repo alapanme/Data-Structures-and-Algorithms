@@ -16,6 +16,7 @@ In this project I will write java programmes for various Data Structures and Alg
 - [Rotate Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/rotateArray.java)
 - [Majority Element(Boyer-Moore Voting Algorithm)](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElement.java)
 - [Roman to Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/romanToInteger.java)
+- [Buy and Sell Stock](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/buyAndSellStock.java)
 
 # Practice Solutions
 - [Reverse String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/reverseString.java)
