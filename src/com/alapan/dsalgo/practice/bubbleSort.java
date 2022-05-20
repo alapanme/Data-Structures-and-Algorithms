@@ -3,7 +3,7 @@
 //before last has the next largest.
 //Time Complexity is 0(n²)
 
-package com.alapan.dsalgo.sort;
+package com.alapan.dsalgo.practice;
 
 public class bubbleSort {
 
