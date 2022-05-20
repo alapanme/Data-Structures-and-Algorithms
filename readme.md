@@ -16,6 +16,7 @@ In this project I will write java programmes for various Data Structures and Alg
 - [Valid Parenthesis](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/validParenthesis.java)
 
 # Practice Solutions
+- [Bubble Sort](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/bubbleSort.java)
 - [Reverse String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/reverseString.java)
 - [Merge Sorted Arrays](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/mergeSortedArrays.java)
 - [Longest Word in a Sentence](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/longestWordInSentence.java)
