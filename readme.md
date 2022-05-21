@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-In this project I will write java programmes for various Data Structures and Algorithms.
+This project contains Java solutions of leetcode problems & basic Java concepts for Data Structures and Algorithms.
 
 # Leetcode Solutions
 - [2 - Add Two Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/addTwoNumbers.java)
