@@ -3,7 +3,7 @@
 //Values from the unsorted part are picked and placed at the correct position in the sorted part.
 //Time Complexity is 0(n²)
 
-package com.alapan.dsalgo.sort;
+package com.alapan.dsalgo.practice;
 
 public class insertionSort {
 

@@ -3,7 +3,7 @@
 //And now swap the largest number with the last number.
 //Time Complexity is 0(n²)
 
-package com.alapan.dsalgo.sort;
+package com.alapan.dsalgo.practice;
 
 public class selectionSort {
     public static void main(String args[]) {

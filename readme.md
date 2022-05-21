@@ -17,6 +17,8 @@ In this project I will write java programmes for various Data Structures and Alg
 
 # Practice Solutions
 - [Bubble Sort](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/bubbleSort.java)
+- [Insertion Sort](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/insertionSort.java)
+- [Selection Sort](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/selectionSort.java)
 - [Reverse String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/reverseString.java)
 - [Merge Sorted Arrays](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/mergeSortedArrays.java)
 - [Longest Word in a Sentence](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/longestWordInSentence.java)
