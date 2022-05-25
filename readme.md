@@ -4,6 +4,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 # Leetcode Solutions
 - [2 - Add Two Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/addTwoNumbers.java)
 - [11 - Container With Most Water](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/containerWithMostWater.java)
+- [49 - Group Anagrams](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/groupAnagrams.java)
 - [121 - Best Time to Buy and Sell Stock](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/buyAndSellStock.java)
 - [165 - Compare Version Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/compareVersionNumbers.java)
 - [387 - First Unique Character in a String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/firstUniqueCharacterInString.java)
