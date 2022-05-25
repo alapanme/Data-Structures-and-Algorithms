@@ -24,11 +24,16 @@ public class groupAnagrams {
 
     public List<List<String>> optimized(String[] s) {
         /*
-        Maintain a map ans : {String -> List} where each key \text{K}K is a sorted string,
-        and each value is the list of strings from the initial input that when sorted, are equal to \text{K}K.
+        Maintain a map ans : {String -> List} where each key K is a sorted string,
+        and each value is the list of strings from the initial input that when sorted, are equal to K.
 
         In Java, we will store the key as a string, eg. code.
         In Python, we will store the key as a hashable tuple, eg. ('c', 'o', 'd', 'e').
+
+        Time Complexity: O(NKlogK), where N is the length of strs, and K is the maximum length of a string in strs.
+        The outer loop has complexity O(N) as we iterate through each string. Then, we sort each string in O(KlogK) time.
+
+        Space Complexity: O(NK), the total information content stored in result.
          */
         if (s.length == 0) return new ArrayList<>();
         HashMap<String, List> result = new HashMap<>();
