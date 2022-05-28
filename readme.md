@@ -3,6 +3,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 
 # Leetcode Solutions
 - [2 - Add Two Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/addTwoNumbers.java)
+- [3 - Longest Substring Without Repeating Characters](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/lengthOfLongestSubstring.java)
 - [11 - Container With Most Water](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/containerWithMostWater.java)
 - [12 - Integer to Roman](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/integerToRoman.java)
 - [28 - Implement strStr()](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/implementStrStr.java)
