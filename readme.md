@@ -11,6 +11,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [49 - Group Anagrams](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/groupAnagrams.java)
 - [121 - Best Time to Buy and Sell Stock](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/buyAndSellStock.java)
 - [165 - Compare Version Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/compareVersionNumbers.java)
+- [169 - Majority Element](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElement.java)
 - [387 - First Unique Character in a String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/firstUniqueCharacterInString.java)
 - [Two Sum](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/twoSumSolution.java)
 - [Reverse Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/reverseIntegerSolution.java)
@@ -19,7 +20,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [Move Zeros](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/moveZeros.java)
 - [Contains Duplicate](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/containsDuplicate.java)
 - [Rotate Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/rotateArray.java)
-- [Majority Element(Boyer-Moore Voting Algorithm)](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElement.java)
+
 - [Roman to Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/romanToInteger.java)
 - [Valid Parenthesis](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/validParenthesis.java)
 
