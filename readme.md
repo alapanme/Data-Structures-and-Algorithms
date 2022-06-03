@@ -15,7 +15,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [165 - Compare Version Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/compareVersionNumbers.java)
 - [169 - Majority Element](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElement.java)
 - [229 - Majority Element II](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElementII.java)
-- [268 - Missing Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/missingNumbers.java)
+- [268 - Missing Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/MissingNumbers.java)
 - [387 - First Unique Character in a String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/firstUniqueCharacterInString.java)
 - [Two Sum](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/twoSumSolution.java)
 - [Reverse Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/reverseIntegerSolution.java)
