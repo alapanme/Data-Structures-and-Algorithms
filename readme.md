@@ -17,6 +17,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [229 - Majority Element II](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElementII.java)
 - [268 - Missing Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/MissingNumbers.java)
 - [387 - First Unique Character in a String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/firstUniqueCharacterInString.java)
+- [819 - Most Common Word](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/mostCommonWord.java)
 - [Two Sum](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/twoSumSolution.java)
 - [Reverse Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/reverseIntegerSolution.java)
 - [Palindrome Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/palindromeSolution.java)
