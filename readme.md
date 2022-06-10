@@ -8,6 +8,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [9 - Palindrome Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/palindromeSolution.java)
 - [11 - Container With Most Water](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/containerWithMostWater.java)
 - [12 - Integer to Roman](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/integerToRoman.java)
+- [13 - Roman to Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/romanToInteger.java)
 - [14 - Longest Common Prefix](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/longestCommonPrefix.java)
 - [21 - Merge Two Sorted Lists](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/mergeTwoSortedLists.java)
 - [28 - Implement strStr()](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/implementStrStr.java)
@@ -26,7 +27,6 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [Two Sum](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/twoSumSolution.java)
 - [Contains Duplicate](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/containsDuplicate.java)
 - [Rotate Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/rotateArray.java)
-- [Roman to Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/romanToInteger.java)
 - [Valid Parenthesis](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/validParenthesis.java)
 
 # Practice Solutions
