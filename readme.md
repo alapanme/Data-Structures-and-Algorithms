@@ -17,6 +17,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [121 - Best Time to Buy and Sell Stock](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/buyAndSellStock.java)
 - [165 - Compare Version Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/compareVersionNumbers.java)
 - [169 - Majority Element](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElement.java)
+- [189 - Rotate Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/rotateArray.java)
 - [229 - Majority Element II](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElementII.java)
 - [238 - Product of Array Except Self](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/ProductofArrayExceptSelf.java)
 - [268 - Missing Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/MissingNumbers.java)
@@ -26,7 +27,6 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [937 - Reorder Data in Log Files](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/ReorderDataInLogFiles.java)
 - [Two Sum](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/twoSumSolution.java)
 - [Contains Duplicate](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/containsDuplicate.java)
-- [Rotate Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/rotateArray.java)
 - [Valid Parenthesis](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/validParenthesis.java)
 
 # Practice Solutions
