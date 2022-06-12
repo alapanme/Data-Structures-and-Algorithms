@@ -12,6 +12,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [14 - Longest Common Prefix](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/longestCommonPrefix.java)
 - [21 - Merge Two Sorted Lists](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/mergeTwoSortedLists.java)
 - [28 - Implement strStr()](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/implementStrStr.java)
+- [48 - Rotate Image](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/RotateImage.java)
 - [49 - Group Anagrams](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/groupAnagrams.java)
 - [53 - Maximum Subarray](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/maximumSubArray.java)
 - [121 - Best Time to Buy and Sell Stock](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/buyAndSellStock.java)
