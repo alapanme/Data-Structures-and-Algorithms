@@ -26,6 +26,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [268 - Missing Number](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/MissingNumbers.java)
 - [283 - Move Zeroes](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/moveZeros.java)
 - [387 - First Unique Character in a String](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/firstUniqueCharacterInString.java)
+- [560 - Subarray Sum Equals K](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/SubarraySumEqualsK.java)
 - [819 - Most Common Word](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/mostCommonWord.java)
 - [937 - Reorder Data in Log Files](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/ReorderDataInLogFiles.java)
 - [977 - Squares of a Sorted Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/SquaresofaSortedArray.java)
