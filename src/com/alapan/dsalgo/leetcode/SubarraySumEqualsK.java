@@ -20,9 +20,9 @@ public class SubarraySumEqualsK {
     /*
     Say you are given an array e.g. [a0, a1, a2, a3, a4, a5, a6... an] .
 
-    [a0,  a1,  a2,    a3,   a4,   a5,  a6, ... an]
-	            ^	               ^
-            sumI	              sumJ
+    [a0, a1, a2, a3, a4, a5, a6, ... an]
+	          ^	         ^
+            sumI	    sumJ
 
     sumI = sum of numbers till a2 (a0 + a1 + a2)
     sumJ = sum of numbers till a5 (a0 + a1 + a2 + a3 + a4 + a5)
