@@ -25,20 +25,6 @@ public class threeSumClosest {
         /*
         Time Complexity: O(n^2).
         Space Complexity: Space Complexity: from O(log n) to O(n), depending on the implementation of the sorting algorithm.
-
-        Algorithm:
-        1. Initialize the minimum difference diff with a large value.
-        2. Sort the input array nums.
-        3. Iterate through the array:
-            - For the current position i, set lo to i + 1, and hi to the last index.
-            - While the lo pointer is smaller than hi:
-                > Set sum to nums[i] + nums[lo] + nums[hi].
-                > If the absolute difference between sum and target is smaller than the absolute value of diff:
-                    => Set diff to target - sum.
-                > If sum is less than target, increment lo.
-                > Else, decrement hi.
-            - If diff is zero, break from the loop.
-        4. Return the value of the closest triplet, which is target - diff.
          */
         int result = nums[0] + nums[1] + nums[nums.length - 1];
         Arrays.sort(nums);
