@@ -2,6 +2,7 @@
 This project contains Java solutions of leetcode problems & basic Java concepts for Data Structures and Algorithms.
 
 # Leetcode Solutions
+- [1 - Two Sum](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/twoSumSolution.java)
 - [2 - Add Two Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/addTwoNumbers.java)
 - [3 - Longest Substring Without Repeating Characters](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/lengthOfLongestSubstring.java)
 - [7 - Reverse Integer](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/reverseIntegerSolution.java)
@@ -33,7 +34,6 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [819 - Most Common Word](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/mostCommonWord.java)
 - [937 - Reorder Data in Log Files](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/ReorderDataInLogFiles.java)
 - [977 - Squares of a Sorted Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/SquaresofaSortedArray.java)
-- [Two Sum](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/twoSumSolution.java)
 
 # Practice Solutions
 - [Bubble Sort](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/practice/bubbleSort.java)
