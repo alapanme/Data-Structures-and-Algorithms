@@ -21,6 +21,7 @@ This project contains Java solutions of leetcode problems & basic Java concepts 
 - [49 - Group Anagrams](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/groupAnagrams.java)
 - [53 - Maximum Subarray](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/maximumSubArray.java)
 - [121 - Best Time to Buy and Sell Stock](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/buyAndSellStock.java)
+- [125 - Valid Palindrome](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/validPalindrome.java)
 - [165 - Compare Version Numbers](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/compareVersionNumbers.java)
 - [169 - Majority Element](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/majorityElement.java)
 - [189 - Rotate Array](https://github.com/alapanme/Data-Structures-and-Algorithms/blob/master/src/com/alapan/dsalgo/leetcode/rotateArray.java)
